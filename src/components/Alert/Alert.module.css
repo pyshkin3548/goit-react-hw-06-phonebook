@@ -1,0 +1,17 @@
+.Container {
+  position: absolute;
+  color: #dbd7d7;
+  height: auto;
+  text-align: center;
+  background-color: #f85b5b;
+  max-width: 400px;
+  padding: 10px 20px;
+  right: 100px;
+  top: 50px;
+  border-radius: 50%;
+}
+
+.Text {
+  font-size: medium;
+  font-weight: 600;
+}
